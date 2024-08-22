@@ -16,6 +16,7 @@ Tkinter：用于创建图形用户界面（GUI）。Tkinter 通常随 Python 一
 sudo apt-get install python3-tk
 
 English
+
 To run this code, you need to install the following libraries:
 
 OpenCV: For image processing and computer vision.
@@ -33,7 +34,8 @@ pip install ultralytics
 Tkinter: For creating graphical user interfaces (GUI). Tkinter usually comes with Python, but if not, you can install it with:
 sudo apt-get install python3-tk
 
-日本語 (Japanese)
+日本語 
+
 このコードを実行するには、以下のライブラリをインストールする必要があります：
 
 OpenCV：画像処理とコンピュータビジョンのために使用します。
